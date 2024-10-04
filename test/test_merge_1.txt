@@ -1,0 +1,6 @@
+to test process:
+1. go to main
+2. fetch origin
+3. pull origin
+4. go to branch
+5. merge into current branch
